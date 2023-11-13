@@ -6,7 +6,6 @@ import pages.components.CalendarComponent;
 import pages.components.CheckResultComponent;
 
 import static com.codeborne.selenide.Condition.text;
-import static com.codeborne.selenide.Condition.value;
 import static com.codeborne.selenide.Selenide.*;
 
 public class RegistrationPage {
