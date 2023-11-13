@@ -1,5 +1,7 @@
 package pages.components;
 
+import com.codeborne.selenide.Configuration;
+
 import static com.codeborne.selenide.Condition.*;
 import static com.codeborne.selenide.Selenide.$x;
 import static org.junit.platform.commons.util.Preconditions.condition;
